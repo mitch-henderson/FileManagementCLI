@@ -14,7 +14,7 @@ FileManagementCLI/
 ├── .gitignore
 └── README.md
 ```
-FileManagementCLI is a straightforward yet powerful Command Line Interface (CLI) tool developed in Java, designed to simplify basic file management tasks. This utility offers an intuitive way for users to interact with the filesystem directly from the command line, making it an excellent tool for quickly managing files without the need for a graphical interface. The tool is perfect for both beginners wanting to learn more about file operations in Java and for advanced users looking for a quick way to handle files.
+This utility offers an intuitive way for users to interact with the filesystem directly from the command line, making it an excellent tool for quickly managing files without the need for a graphical interface. The tool is perfect for both beginners wanting to learn more about file operations in Java and for advanced users looking for a quick way to handle files.
 
 ### Key Features:
 - **List Files in Directory**: Quickly view all files within the current directory, helping users manage and navigate their filesystem with ease.
