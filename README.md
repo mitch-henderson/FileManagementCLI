@@ -13,7 +13,7 @@ FileManagementCLI/
 │
 ├── .gitignore
 └── README.md
-```
+``` 
 This utility offers an intuitive way for users to interact with the filesystem directly from the command line, making it an excellent tool for quickly managing files without the need for a graphical interface. The tool is perfect for both beginners wanting to learn more about file operations in Java and for advanced users looking for a quick way to handle files.
 
 ### Key Features:
